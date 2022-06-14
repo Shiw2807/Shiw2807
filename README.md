@@ -30,7 +30,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shiw2807&show_icons=true&locale=en&layout=compact" alt="shiw2807" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shiw2807&show_icons=true&locale=en&theme=highcontrast" alt="shiw2807" /></p>
+<img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=shiw2807&count_private=true&theme=highcontrast&show_icons=true" />
 
 <p align="center">
   <img src="https://github.com/ishikkkkaaaa/ishikkkkaaaa/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
