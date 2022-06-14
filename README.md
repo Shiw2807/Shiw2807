@@ -30,7 +30,10 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shiw2807&show_icons=true&locale=en&layout=compact" alt="shiw2807" /></p>
 
-<img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=shiw2807&count_private=true&theme=highcontrast&show_icons=true" />
+<p>
+<a align= "center" href="https://github.com/waqartabish2807">
+<img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=waqartabish2807&theme=radical">
+</p>
 
 <p align="center">
   <img src="https://github.com/ishikkkkaaaa/ishikkkkaaaa/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
