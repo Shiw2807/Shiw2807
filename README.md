@@ -32,7 +32,7 @@
 
 <p>
 <a align= "center" href="https://github.com/waqartabish2807">
-<img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=waqartabish2807&theme=radical">
+<img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=shiw2807&theme=highcontrast">
 </p>
 
 <p align="center">
