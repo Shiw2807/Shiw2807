@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/shiwanshi07" target="blank"><img src="https://img.shields.io/twitter/follow/shiwanshi07?logo=twitter&style=for-the-badge" alt="shiwanshi07" /></a> </p>
 
-- 🔭 I’m currently working on **Whiteboard**
+- 🔭 I’m currently working on **Backend development**
 
 - 🌱 I’m currently learning **Backend development and DSA.**
 
