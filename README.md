@@ -7,19 +7,15 @@
 
 - 🔭 I’m currently working on **Backend development**
 
-- 🌱 I’m currently learning **Backend development and DSA.**
-
 - 👯 I’m looking to collaborate on **projects that would help me gain knowledge and experience.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Shiw2807?tab=repositories](https://github.com/Shiw2807?tab=repositories)
 
 - 📝 I regularly write articles on [https://drive.google.com/drive/u/4/folders/1Kocy0-CGs5Lb7qtVapvvPHukvOFfbQc4](https://drive.google.com/drive/u/4/folders/1Kocy0-CGs5Lb7qtVapvvPHukvOFfbQc4)
 
-- 💬 Ask me about **Html, CSS and JavaScript.**
 
-- 📫 How to reach me **shiwanshi2807@gmail.com**
 
-- ⚡ Fun fact **I think I am funny!**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
