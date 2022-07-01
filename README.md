@@ -27,7 +27,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shiw2807&show_icons=true&locale=en&layout=compact" alt="shiw2807" /></p>
 
 <p>
-<a align= "center" href="https://github.com/waqartabish2807">
+<a align= "center" href="https://github.com/shiw2807">
 <img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=shiw2807&theme=highcontrast">
 </p>
 
